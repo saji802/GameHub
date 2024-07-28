@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="adcc1a23-6f85-4c99-88be-2ba71dd798ef" name="Changes" comment="Project Done!">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_commons_csv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/opencsv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game_Center.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-beanutils-1.9.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-collections-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-collections4-4.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-csv-1.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-lang3-3.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-text-1.10.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opencsv-5.7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doodle_Jump/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doodle_Jump/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doodle_Jump/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doodle_Jump/DeathPlatform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doodle_Jump/DisappearingPlatform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doodle_Jump/Doodle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doodle_Jump/ExtraBouncePlatform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doodle_Jump/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doodle_Jump/MovingPlatform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doodle_Jump/PaneOrganizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doodle_Jump/Platform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doodle_Jump/Scores.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doodle_Jump/images/Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doodle_Jump/images/InstructBackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doodle_Jump/images/Intro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LandingScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris/PaneOrganizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris/Piece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris/Scores.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/Landing Page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/LeaderBoard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/othello/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/othello/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/othello/ComputerPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/othello/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/othello/Controls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/othello/HumanPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/othello/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/othello/OthelloSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/othello/PaneOrganizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/othello/Piece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/othello/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/othello/Referee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/othello/SetupGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/othello/images/Instructions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/othello/images/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/othello/images/instructions background.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2hmloRaxdr4biZDY0imVWj0ubO8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/salmanaji/Desktop/Projects/Game_Hub",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/Doodle_Jump" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App (1)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Game_Center" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="othello.App" />
+      <module name="Game_Center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="othello.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Doodle_Jump.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Doodle_Jump.App" />
+      <module name="Game_Center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Doodle_Jump.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tetris.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tetris.App" />
+      <module name="Game_Center" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tetris.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.Doodle_Jump.App" />
+        <item itemvalue="Application.Tetris.App" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adcc1a23-6f85-4c99-88be-2ba71dd798ef" name="Changes" comment="" />
+      <created>1718207310129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718207310129</updated>
+      <workItem from="1718207312321" duration="42000" />
+      <workItem from="1718207415563" duration="2679000" />
+      <workItem from="1718218389874" duration="1215000" />
+      <workItem from="1718315160825" duration="598000" />
+      <workItem from="1718324077397" duration="6415000" />
+      <workItem from="1718413294890" duration="3264000" />
+      <workItem from="1718466952866" duration="4110000" />
+      <workItem from="1718576186019" duration="1247000" />
+      <workItem from="1719234710190" duration="267000" />
+      <workItem from="1719235570377" duration="69000" />
+      <workItem from="1719528243321" duration="13559000" />
+      <workItem from="1719580187630" duration="1442000" />
+      <workItem from="1719581713075" duration="7293000" />
+      <workItem from="1719625202198" duration="1461000" />
+      <workItem from="1719698687308" duration="741000" />
+      <workItem from="1719768418028" duration="4724000" />
+      <workItem from="1719777160521" duration="1064000" />
+      <workItem from="1719785736256" duration="1052000" />
+      <workItem from="1722120188124" duration="55000" />
+      <workItem from="1722120413935" duration="5336000" />
+      <workItem from="1722126813404" duration="302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project Done!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project Done!" />
+  </component>
+</project>
